@@ -1,6 +1,6 @@
 {
   "name": "@fathym-arcade/2048",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "scripts": {
     "build": "",
     "deploy": "npm version patch && npm run deploy:app",
